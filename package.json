@@ -1,11 +1,11 @@
 {
   "name": "learn-travis",
   "version": "1.0.0",
-  "description": "",
+  "description": "Travis Study",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "mocha"
+    "test": "mocha --exit"
   },
   "author": "clecio barbosa",
   "license": "ISC",
